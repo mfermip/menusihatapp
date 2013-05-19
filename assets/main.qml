@@ -42,11 +42,11 @@ Page {
                             imageSource: "asset:///images/round-border.amd"
                         }
                     ]
-                    ImageView {
-                        imageSource: "asset:///images/picture.png"
+                    ImageButton {
+                        defaultImageSource: "asset:///images/picture.png"
                     }
-                    ImageView {
-                        imageSource: "asset:///images/picture.png"
+                    ImageButton {
+                        defaultImageSource: "asset:///images/picture.png"
                     }
                     topPadding: padding
                     bottomPadding: padding
